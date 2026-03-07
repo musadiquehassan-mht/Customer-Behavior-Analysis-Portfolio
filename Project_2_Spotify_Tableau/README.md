@@ -14,7 +14,7 @@ The final deliverable is a fully interactive Business Intelligence dashboard des
 
 ## 📊 Dashboard Preview
 *(Replace the line below with the screenshot of your finished dashboard)*
-`![Spotify Dashboard Screenshot](INSERT_IMAGE_LINK_HERE)`
+`![Spotify Dashboard Screenshot](spotify_dashboard.png)`
 
 ---
 
