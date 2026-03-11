@@ -49,8 +49,3 @@ My technical focus spans from raw data engineering and exploratory data analysis
 * **Description:** Deployed the Elbow Method and a K-Means clustering algorithm to analyze a massive banking database. Mathematically discovered and mapped 4 distinct, high-value target audiences (Marketing Personas) to optimize mass-marketing campaign ROI.
 
 ---
-
-## 📬 Let's Connect
-I am actively available for freelance consulting, data analysis, and end-to-end Machine Learning pipeline development. 
-
-If you are looking to extract actionable business intelligence from your raw data, automate your predictive workflows, or scale your infrastructure using MLOps, please reach out via my freelance platforms or direct contact.
